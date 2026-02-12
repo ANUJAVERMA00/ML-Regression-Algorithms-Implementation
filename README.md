@@ -25,7 +25,7 @@ This project involves a deep-dive into the mathematical and practical implementa
 
 ---
 
-## ⚙️ 2. Model Implementation
+##  2. Model Implementation
 We progressed through three distinct architectural stages to find the optimal fit:
 
 ### **A. Simple Linear Regression (Gradient Descent)**
@@ -48,7 +48,7 @@ We progressed through three distinct architectural stages to find the optimal fi
 
 ---
 
-## 📊 3. Evaluation and Comparison
+##  3. Evaluation and Comparison
 We benchmarked every model using three core metrics to ensure a 360-degree view of accuracy:
 1.  **MSE (Mean Squared Error):** Measures average squared variance.
 2.  **RMSE (Root Mean Squared Error):** Provides the error in actual Dollar units.
@@ -72,4 +72,4 @@ We benchmarked every model using three core metrics to ensure a 360-degree view 
 
 ---
 **Course:** B.Tech (6th Semester)  
-**Project:** Machine Learning Capstone - Stock Market Analysis
+**Project:** Machine Learning - Stock Market Forecasting
